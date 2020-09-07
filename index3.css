@@ -1,0 +1,72 @@
+body{
+	background: url(../imagenes/Logo.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	color: #fff;
+	background-position: 50%;
+}
+
+div{
+	background-color: #BFE30F;
+}
+
+
+.titulo{
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.subtitulo{
+	font-family: Roboto;
+	font-size: 40px;
+	color: #000;
+}
+
+
+.parrafo{
+	font-family: Roboto;
+	font-size: 20px;
+	color: #000;
+}
+
+.wix{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.jimdo{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.site123{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.squarespace{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.wordpress{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
+
+
+.zyro{
+	font-size: 25px;
+	font-family: Roboto;
+	color: #000;
+}
